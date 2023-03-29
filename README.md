@@ -30,8 +30,15 @@
 <br>
 <br>
 
-### My Github Stats :chart_with_upwards_trend:
+<p align="center">
+    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhazlipse&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecod3&show_icons=true&theme=radical)
+<h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/Nhazlipse/Nhazlipse/blob/main/assets/github-contribution-grid-snake.svg"/></a>
+</h2>
+   
 
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=nhazlipse&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
+</div>
