@@ -10,7 +10,7 @@
 <h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
 <br>
 <br>
-
+![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
 <p align="center">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
 </p>
@@ -25,13 +25,6 @@
   <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;mongodb,MongoDB,47A248;mariadb,mariadb,ffffff;mysql,mysql,eba000;&line2=Supabase,supabase,3ECF8E;redis,redis,DC382D;amazondynamodb,dynamodb,4053D6;SQLite,SQLite,ffffff;"/>
 </div>
 
-<br>
-<h2 align="center">⚙️ &nbsp; GitHub Stats &nbsp; ⚙️</h2>
-<br>
-<br>
-
-
-![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=nhazlipse&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
