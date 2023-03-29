@@ -32,14 +32,7 @@
 <br>
 <br>
 
-<p align="center">
-    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timecod3&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
-</p>
-
-<h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
-  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/timecod3/timecod3/blob/github-contribution-grid-snake.svg"/></a>
-</h2>
-   
+![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=timecod3&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
