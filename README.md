@@ -30,9 +30,7 @@
 <br>
 <br>
 
-<div align="center">
-      ![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
-</div>
+![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
 
 
 
