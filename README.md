@@ -33,6 +33,7 @@
 <br>
 
 ![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timecode&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=timecod3&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
