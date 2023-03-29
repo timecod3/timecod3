@@ -35,14 +35,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecod3&show_icons=true&theme=radical)
 
 
-
-
-
-<p align="center">
-    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timecod3&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
-</p>
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=timecod3&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
-</div>
