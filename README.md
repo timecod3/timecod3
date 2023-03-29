@@ -30,6 +30,14 @@
 <br>
 <br>
 
+### My Github Stats :chart_with_upwards_trend:
+![Fauzan's github stats](https://github-readme-stats.vercel.app/api?username=fauzan1892&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzan1892&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <p align="center">
     <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timecod3&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
 </p>
