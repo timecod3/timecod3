@@ -14,7 +14,7 @@
 <p align="center">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
 </p>
-![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
+
 <br>
 <h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
 <br>
@@ -26,8 +26,23 @@
 </div>
 
 
+
+<br>
+<h2 align="center">⚙️ &nbsp; GitHub Stats &nbsp; ⚙️</h2>
+<br>
+<br>
+
+<p align="center">
+    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timecod3&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
+</p>
+
+<h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
+  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/timecod3/timecod3/blob/main/assets/github-contribution-grid-snake.svg"/></a>
+</h2>
+   
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nhazlipse&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
+<img src="https://komarev.com/ghpvc/?username=timecod3&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
 </div>
 
 
