@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)
+<img src="![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical)"
 </div>
 
 <div align="center">
