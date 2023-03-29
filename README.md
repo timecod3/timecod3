@@ -31,8 +31,8 @@
 <br>
 
 ### My Github Stats :chart_with_upwards_trend:
-![timecod3 github stats](https://github-readme-stats.vercel.app/api?username=timecod3&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timecode3&langs_count=3&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![timecod3's GitHub stats](https://github-readme-stats.vercel.app/api?username=timecod3)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
