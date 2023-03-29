@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timecode&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=timecod3&show_icons=true&theme=radical">
 </div>
 
 <div align="center">
