@@ -35,12 +35,12 @@
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="blob/3987.gif?raw=true" height = "120px" align="right">
 <li>
-<b>Name:</b> Huy</li>
+<b>Name:</b> Yovie Ferdianto</li>
 <li>
 <b>Gender:</b> Male, boy!
 </li>
 <li>
-<b>Hobby:</b> Tech stuff, animation, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), anime, games
+  <b>Hobby:</b> web development, anime, games , <i>Rebahan</i>
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
