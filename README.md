@@ -55,7 +55,7 @@
 <br>
 <img width="720" height="auto" src=blob/12174.gif>
 
-<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<h3 align="center">Ｓｏｃｉａｌｓ</h3>
 <div align="center">
   <a href="https://timecod3.github.io/portofolio">
   <img src="https://img.shields.io/badge/-Portofolio-181717?style=for-the-badge&logo=github&logoColor=white'" target="_blank" rel="noopener noreferrer">
