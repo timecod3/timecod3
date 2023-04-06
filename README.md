@@ -14,6 +14,9 @@
 </p>
 <br>
 
+<div align="center">
+<br>
+</div>
 
 <br>
 <h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
