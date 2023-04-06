@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
-  <img src=blob/3548.gif width="400" height="auto">
+  <img src=blob/35458.gif width="400" height="auto">
 </div>
 
 <br>
