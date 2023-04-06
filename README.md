@@ -17,7 +17,7 @@
 </p>
 
 <br>
-<h2 align="center"><b>❤️&nbsp;Thanks to visit my Profile&nbsp;❤️</b>
+<h2 align="center"><b>❤&nbsp;Relax&nbsp;🌟</b>
 </h2>
 
 <br>
