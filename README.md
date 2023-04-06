@@ -35,6 +35,10 @@
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
+<div align="center">
+  <img width="720" height="auto" src=blob/35458.gif>
+</div>
+
 <ul>
   <li> 📺 Currently watching <b>86 Eighty Six</b></li>
   <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
