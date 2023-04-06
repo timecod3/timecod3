@@ -69,18 +69,17 @@
 
 
 <br>
+<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 𝐯𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 💖 &nbsp;</h1>
+<br>
+<br>
+
+  
+<br>
  <p align="center">
    <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </p>
 <br>
 
-
-
-
-<br>
-<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 𝐯𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 💖 &nbsp;</h1>
-<br>
-<br>
 
 
 <p align="center">
