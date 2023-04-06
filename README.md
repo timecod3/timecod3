@@ -40,7 +40,7 @@
 <b>Gender:</b> Male, boy!
 </li>
 <li>
-  <b>Hobby:</b> web development, anime, games , <i>Rebahan</i>
+  <b>Hobby:</b> Web development, anime, games , <i>REBAHAN</i>
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
