@@ -32,34 +32,6 @@
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
 </p>
 
-<div align="center">
-  <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-  <img width="310" height="auto" src=blob/2970.gif>
-</div>
-
-<ul>
-  <li> 📺 Currently watching <b>86 Eighty Six</b></li>
-  <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
-  <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
-  <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
-  <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
-</ul>
-
-<br>
-<img width="720" height="auto" src=blob/12174.gif>
-
-<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
-<div align="center">
-  <a href="https://timecod3.github.io/portofolio">
-  <img src="https://img.shields.io/badge/-Portofolio-181717?style=for-the-badge&logo=github&logoColor=white'" target="_blank" rel="noopener noreferrer">
-  </a>
-  <a href="https://www.instagram.com/yovie_ferdianto/" >
-  <img src="https://img.shields.io/badge/instagram-680747?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank" rel="noopener noreferrer">
-  </a>
-  <br>
-  <img src=blob/35458.gif width="400" height="auto">
-</div>
-
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="blob/3987.gif?raw=true" height = "120px" align="right">
 <li>
@@ -76,6 +48,24 @@
 </div>
 <div>
 
+
+
+
+
+<br>
+<img width="720" height="auto" src=blob/12174.gif>
+
+<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<div align="center">
+  <a href="https://timecod3.github.io/portofolio">
+  <img src="https://img.shields.io/badge/-Portofolio-181717?style=for-the-badge&logo=github&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://www.instagram.com/yovie_ferdianto/" >
+  <img src="https://img.shields.io/badge/instagram-680747?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank" rel="noopener noreferrer">
+  </a>
+  <br>
+  <img src=blob/35458.gif width="400" height="auto">
+</div>
 
 
 <br>
