@@ -42,7 +42,7 @@
 <br>
 
 <br>
-<h1 align="center">⚙️ &nbsp; (っ◔◡◔)っ 💖 GitHub Stats 💖 &nbsp; ⚙️</h1>
+<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 GitHub Stats 💖 &nbsp;</h1>
 <br>
 <br>
 
