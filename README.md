@@ -51,7 +51,7 @@
 <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
 <div align="center">
   <a href="https://timecod3.github.io/portofolio">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=Portofolio&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Portofolio-181717?style=for-the-badge&logo=github&logoColor=white'" target="_blank" rel="noopener noreferrer">
   </a>
   <a href="https://www.instagram.com/yovie_ferdianto/" >
   <img src="https://img.shields.io/badge/instagram-680747?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank" rel="noopener noreferrer">
