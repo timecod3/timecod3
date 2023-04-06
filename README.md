@@ -60,11 +60,32 @@
   <img src=blob/35458.gif width="400" height="auto">
 </div>
 
+<h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
+<img src="blob/35458.gif?raw=true" height = "220px" align="right">
+<li>
+<b>Name:</b> Huy</li>
+<li>
+<b>Gender:</b> Male, boy!
+</li>
+<li>
+<b>Hobby:</b> Tech stuff, animation, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), anime, games
+</li>
+<br>
+<p><b>     Thanks for reading about my personal stuff<br>
+                                 💯❤️‍🔥</b></p>
+</div>
+<div>
+
+
+
 <br>
  <p align="center">
    <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </p>
 <br>
+
+
+
 
 <br>
 <h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 𝐯𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 💖 &nbsp;</h1>
