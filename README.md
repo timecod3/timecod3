@@ -11,6 +11,16 @@
 <br>
 <br>
 
+<br>
+<h2 align="center"><b>❤️&nbsp;Thanks to visit my Profile&nbsp;❤️</b>
+</h2>
+
+<br>
+ <p align="center">
+   <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+</p>
+<br>
+
 <p align="center">
   <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
 </p>
@@ -32,15 +42,7 @@
 <br>
 <br>
 
-<br>
-<h2 align="center"><b>❤️&nbsp;Thanks to visit my Profile&nbsp;❤️</b>
-</h2>
 
-<br>
- <p align="center">
-   <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
-</p>
-<br>
 
 
 <p align="center">
