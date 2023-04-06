@@ -33,8 +33,20 @@
 </p>
 
 
-<br>
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
+<ul>
+  <li> 📺 Currently watching <b>86 Eighty Six</b></li>
+  <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
+  <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
+  <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
+  <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
+</ul>
+
+
+
+
+<br>
  <p align="center">
    <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </p>
