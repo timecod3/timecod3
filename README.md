@@ -34,15 +34,16 @@
 
 
 <br>
-<h1 align="center">💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠</h1>
+
  <p align="center">
+  <h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝒯𝒽𝒶𝓃𝓀𝓈 𝓉𝑜 𝓋𝒾𝓈𝒾𝓉 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 💖 &nbsp;</h1>
    <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+   <img src="https://count.getloli.com/get/@Nhazlipse-github-readme?theme=rule34" alt="Visitors">
 </p>
-<h1 align="center">💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠</h1>
 <br>
 
 <br>
-<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 GitHub Stats 💖 &nbsp;</h1>
+<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝒯𝒽𝒶𝓃𝓀𝓈 𝓉𝑜 𝓋𝒾𝓈𝒾𝓉 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 💖 &nbsp;</h1>
 <br>
 <br>
 
