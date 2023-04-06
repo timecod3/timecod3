@@ -11,6 +11,11 @@
 <br>
 <br>
 
+
+<p align="center">
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
+</p>
+
 <br>
 <h2 align="center"><b>❤️&nbsp;Thanks to visit my Profile&nbsp;❤️</b>
 </h2>
@@ -21,9 +26,6 @@
 </p>
 <br>
 
-<p align="center">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
-</p>
 
 <br>
 <h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
