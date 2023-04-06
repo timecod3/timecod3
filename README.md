@@ -14,7 +14,7 @@
 
 
 <br>
-<h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
+<h1 align="center">📚 &nbsp;Ｃｏｍｐｕｔｅｒ <i>Ｅｎｔｈｕｓｉａｓｔ</i> &nbsp;📚 </h>
 <br>
 <br>
 
