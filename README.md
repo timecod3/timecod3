@@ -13,10 +13,6 @@
    <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </p>
 <br>
-
-<div align="center">
-<br>
-</div>
 💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠💠
 <br>
 <h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
