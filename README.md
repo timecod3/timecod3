@@ -34,7 +34,7 @@
 
 <div align="center">
   <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-  <img width="310" height="auto" src=blob/35458.gif>
+  <img width="310" height="auto" src=blob/2970.gif>
 </div>
 
 <ul>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
-  <img src=Add-ons/SAO_K.gif width="400" height="auto">
+  <img src=blob/3548.gif width="400" height="auto">
 </div>
 
 <br>
