@@ -41,7 +41,7 @@
 <br>
 
 <br>
-<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝒯𝒽𝒶𝓃𝓀𝓈 𝓉𝑜 𝓋𝒾𝓈𝒾𝓉 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 💖 &nbsp;</h1>
+<h1 align="center">&nbsp; (っ◔◡◔)っ 💖 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 𝐯𝐢𝐬𝐢𝐭 𝐦𝐲 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 💖 &nbsp;</h1>
 <br>
 <br>
 
