@@ -61,7 +61,7 @@
   <img src="https://img.shields.io/badge/-Portofolio-181717?style=for-the-badge&logo=github&logoColor=white'" target="_blank" rel="noopener noreferrer">
   </a>
   <a href="https://www.instagram.com/yovie_ferdianto/" >
-  <img src="https://img.shields.io/badge/instagram-680747?style=for-the-badge&logo=instagram&logoColor=purple" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/instagram-680747?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
   <img src=blob/35458.gif width="400" height="auto">
