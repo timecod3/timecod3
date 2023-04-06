@@ -41,7 +41,9 @@
 <br>
 
 
-
+<p align="center">
+<img src="https://count.getloli.com/get/@Nhazlipse-github-readme?theme=rule34" alt="Visitors">
+</p>
 
 <p align="center">
     <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=timecod3&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
