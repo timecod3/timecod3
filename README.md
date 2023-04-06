@@ -7,18 +7,6 @@
   </p>
 <br>
 
-<h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
-<br>
-<br>
-
-
-<p align="center">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
-</p>
-
-<br>
-<h2 align="center"><b>❤&nbsp;Relax&nbsp;🌟</b>
-</h2>
 
 <br>
  <p align="center">
@@ -37,6 +25,14 @@
   <img alt="Storage" height="120em" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Storage&align=center&borderRadius=5.5&fontSize=22&lineHeight=10&lineCount=2&theme=github_dark&gap=9&line1=PostgreSQL,PostgreSQL,4169E1;mongodb,MongoDB,47A248;mariadb,mariadb,ffffff;mysql,mysql,eba000;&line2=Supabase,supabase,3ECF8E;redis,redis,DC382D;amazondynamodb,dynamodb,4053D6;SQLite,SQLite,ffffff;"/>
 </div>
 
+<h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
+<br>
+<br>
+
+
+<p align="center">
+  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=timecod3&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
+</p>
 
 
 <br>
