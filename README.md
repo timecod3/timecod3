@@ -36,7 +36,7 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <div align="center">
-  <img width="720" height="auto" src=blob/35458.gif>
+  <img width="310" height="auto" src=blob/35458.gif>
 </div>
 
 <ul>
