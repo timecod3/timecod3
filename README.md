@@ -40,4 +40,13 @@
 <img src="https://komarev.com/ghpvc/?username=timecod3&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
 </div>
 
+<br>
+<h2 align="center"><b>❤️&nbsp;Thanks to visit my Profile&nbsp;❤️</b>
+</h2>
+
+<br>
+ <p align="center">
+   <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+</p>
+<br>
 
