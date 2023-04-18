@@ -53,7 +53,7 @@
 
 
 <br>
-<img width="320" height="auto" src=blob/12174.gif>
+<img width="320" height="auto"align="center" src=blob/12174.gif>
 
 <h3 align="center">Ｓｏｃｉａｌｓ</h3>
 <div align="center">
