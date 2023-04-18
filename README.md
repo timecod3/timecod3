@@ -33,7 +33,7 @@
 </p>
 
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="blob/poni2.png" height = "320px" align="right">
+<img src="blob/poni2.png" height = "220px" align="right">
 <li>
 <b>Name:</b> Yovie Ferdianto</li>
 <li>
@@ -53,7 +53,7 @@
 
 
 <br>
-<img width="720" height="auto" src=blob/12174.gif>
+<img width="320" height="auto" src=blob/12174.gif>
 
 <h3 align="center">Ｓｏｃｉａｌｓ</h3>
 <div align="center">
