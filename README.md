@@ -84,7 +84,7 @@
 
 
 <p align="center">
-<img src="https://count.getloli.com/get/@Nhazlipse-github-readme?theme=rule34" alt="Visitors">
+<img src="https://count.getloli.com/get/@timecod3-github-readme?theme=rule34" alt="Visitors">
 </p>
 
 <p align="center">
