@@ -21,7 +21,7 @@ jobs:
         run: |
           git config --local user.email "yovieferdiantoo@gmail.com"
           git config --local user.name "timecod3"
-          git commit -a -m "timecod3"
+          git commit -a -m "Auto Commit"
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
