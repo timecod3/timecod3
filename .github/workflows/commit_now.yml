@@ -21,7 +21,7 @@ on:
         default: 20
   push:
     branches:
-      - master
+      - main
 
 jobs:
   auto_commit:
